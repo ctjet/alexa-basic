@@ -1,0 +1,2 @@
+C:\Users\Caleb Desktop\Documents\Visual Studio 2017\Projects\AlexaBasic\AlexaBasic\obj\Debug\AlexaBasic.njsproj.CoreCompileInputs.cache
+C:\Users\Caleb Desktop\Documents\Visual Studio 2017\Projects\AlexaBasic\AlexaBasic\bin\Microsoft.NodejsTools.WebRole.dll
